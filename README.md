@@ -241,7 +241,7 @@ dashboard explanation,
 and editorial recommendations.
 
 📺 Watch Video Here:
-
+https://drive.google.com/file/d/1ICTNRbABYx72ADGsPv3LZUY7w2whNExP/view?usp=sharing
 
 # Power BI Dashboard
 Check Live Dashboard: 
