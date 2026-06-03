@@ -292,7 +292,9 @@ Through this project, I learned:
 • advanced DAX calculations
   and how to present analytics for non-technical audiences.
 
+
 #  Repository Structure
+
 TN-Elections-2026-Dashboard/
 │
 ├── data/
@@ -317,6 +319,7 @@ TN-Elections-2026-Dashboard/
 │
 ├── README.md
 └── metadata
+
 
 # Author
 Dhiraj Mahato Aspiring Data Analyst | Power BI Developer | Data Storyteller
