@@ -295,31 +295,33 @@ Through this project, I learned:
 
 #  Repository Structure
 
+```text
 TN-Elections-2026-Dashboard/
 │
 ├── data/
-│   ├── constituency_master
-│   ├── tn_2021_results
-│   ├── tn_2026_results
-│   ├── summary_2021
-│   ├── summary_2026
-│   ├── party_comparison
-│   ├── region_party_2026
-│   ├── flip_analysis
-│   ├── closest_contests
-│   └── turnout_2026
+│   ├── constituency_master.xlsx
+│   ├── tn_2021_results.xlsx
+│   ├── tn_2026_results.xlsx
+│   ├── summary_2021.xlsx
+│   ├── summary_2026.xlsx
+│   ├── party_comparison.xlsx
+│   ├── region_party_2026.xlsx
+│   ├── flip_analysis.xlsx
+│   ├── closest_contests.xlsx
+│   └── turnout_2026.xlsx
 │
 ├── dashboard/
-│   └── TN_Elections_2026_Dashboard
+│   └── TN_Elections_2026_Dashboard.pbix
 │
 ├── notebooks/
-│   └── main
+│   └── main.ipynb
 │
-├── presentation
+├── presentation/
+│   └── TN_Elections_2026_Presentation.pptx
 │
 ├── README.md
-└── metadata
-
+└── metadata.json
+```
 
 # Author
 Dhiraj Mahato Aspiring Data Analyst | Power BI Developer | Data Storyteller
